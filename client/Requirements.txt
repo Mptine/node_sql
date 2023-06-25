@@ -1,0 +1,20 @@
+TO DO:
+
+Implementar as funcionalidades em nível fullstack O aluno implementou pelo menos uma lógica de paginação acessando o banco de dados?	
+Implementar as funcionalidades em nível fullstack O aluno implementou ao menos um campo de buscas acessando o banco de dados?	
+Implementar as funcionalidades em nível fullstack O aluno implementou pelo menos uma lógica de ordenar por "mais antigos" e "mais recentes"?	
+Implementar as funcionalidades em nível fullstack O aluno realizou a validação dos dados enviados ao back-end?	
+
+DONE
+Desenvolver o modelo de banco de dados da aplicação. O aluno conseguiu configurar seu SGBD corretamente ?	
+Desenvolver o modelo de banco de dados da aplicação. O aluno criou o banco de dados dentro do SGBD?	
+Desenvolver o modelo de banco de dados da aplicação. O aluno criou ao menos quatro tabelas?	
+Desenvolver o modelo de banco de dados da aplicação. O aluno criou os relacionamentos entre as tabelas, sendo pelo menos um deles de 1 para n?
+Realizar queries básicas no API da aplicação. O aluno criou a conexão com o banco de dados?	
+Realizar queries básicas no API da aplicação. O aluno realizou ao menos três selects simples?	
+Realizar queries básicas no API da aplicação. O aluno realizou ao menos dois inserts?	
+Realizar queries básicas no API da aplicação. O aluno realizou ao menos dois deletes?	
+Realizar queries avançadas na API da aplicação. O aluno realizou ao menos dois selects com join?	
+Realizar queries avançadas na API da aplicação. O aluno utilizou a cláusula where pelo menos três vezes?	
+Realizar queries avançadas na API da aplicação. O aluno utilizou order by pelo menos duas vezes?	
+Realizar queries avançadas na API da aplicação. O aluno utilizou on cascade delete e realizou deletes entre múltiplas tabelas?	
